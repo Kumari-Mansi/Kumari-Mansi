@@ -1,4 +1,4 @@
-👋 Hi, I’m Kumari Mansi
+👋 Hi, I’m Mansi Kumari
 👀 I’m interested in Software Development
 🌱 I’m currently learning  Web Development
 💼 I have experience in Python, Java, Machine Learning
